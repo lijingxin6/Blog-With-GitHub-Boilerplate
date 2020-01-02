@@ -14,14 +14,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "李敬鑫"
+site_name = "自然语言处理爱好者"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "李敬鑫"
 email = "lijingix666@gmail.com"
 author_homepage = "https://www.lijingxin.xyz"
 description = "A NLPer"
-key_words = ['Maverick', 'NLP', '李敬鑫', 'blog']
+key_words = ['DeepLearning', 'NLP', '李敬鑫', 'blog']
 language = 'zh-CN'
 # external_links = [
 #     {
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/lijingxin6",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/lijingxin6",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/2294989641/",
         "icon": "gi gi-weibo"
     }
 ]
