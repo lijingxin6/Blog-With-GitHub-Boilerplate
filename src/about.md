@@ -17,6 +17,5 @@ tags:
 
 ## Contact
 
-Email: lijingxin666@gmail.com (replace # with @)
-
+Email: lijingxin666@gmail.com 
 Telegram：[kingtheon](https://t.me/kingtheon)
